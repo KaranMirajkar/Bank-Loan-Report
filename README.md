@@ -1,7 +1,9 @@
-Bank Loan Analysis Dashboard
+Bank Loan Analysis Dashboard -
+
 This project is a Power BI dashboard built to analyze and visualize data related to bank loan applications. The analysis provides meaningful insights into customer profiles, loan approval patterns, and various factors influencing loan decisions.
 
-Project Objective
+Project Objective -
+
 The objective of this project is to:
 
 Analyze loan application trends
@@ -12,7 +14,8 @@ Evaluate the impact of applicant attributes such as gender, education, marital s
 
 Support data-driven decision-making for banking operations
 
-Tools and Technologies Used
+Tools and Technologies -
+
 Power BI Desktop
 
 SQL Server Management Studio 2021 (SSMS 21)
@@ -21,7 +24,8 @@ Power Query Editor
 
 DAX (Data Analysis Expressions)
 
-Key Features
+Key Features -
+
 Data extracted and cleaned using SQL Server and Power Query
 
 Custom DAX measures for key performance indicators such as approval rate, average loan amount, and total income
